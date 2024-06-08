@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Calathea",
+    "price": 25,
+    "imgUrl": "/images/Calathea.jpg",
+    "description": "Calathea plants are a popular houseplant that are relatively easy to care for and known for their eye-catching patterns. They are a great choice for households with pets and kids as they are a nontoxic variety, and their unique leaf moving ability also sets them apart from the crowd.\n\nCalathea plants are native to the tropical Americas and have also been referred to as prayer plants because of their special ability to move throughout the day. This unique trait is called nyctinasty and the Calathea can lower its leaves during the day to receive more light and pull them up at night.\n\nThey are grown outside in tropical climates, but are usually houseplants in other locations as they cannot tolerate the cold. Because of the bold veins and stripes on Calathea plants, they have also been called peacock plants, zebra plants, or rattlesnake plants.",
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "name": "Coconut Palm",
+    "price": 29,
+    "imgUrl": "/images/CoconutPalm.jpg",
+    "description": "The coconut palm plant (Cocos nucifera) is characterized by a tall, gray-brown, slightly curved single trunk, sprawling green palm fronds, and, of course, coconuts. It also loves lots of warmth, sun, and humidity. This can be difficult but not impossible to replicate for an indoor palm.\n\nThe palm has a moderate growth rate. Outdoors it will mature and reach its full coconut production in around 15 to 20 years, and it can live for decades beyond that. Indoors these palms are generally short-lived, they remain small, and they often don’t produce fruit. They can be planted at any time of year.",
+    "rating": 5
+  },
+  {
+    "id": 3,
+    "name": "Ficus",
+    "price": 20,
+    "imgUrl": "/images/Ficus.jpg",
+    "description": "Ficus (Ficus spp.), also known as fig, is a tropical or semi-tropical plant with sweet edible fruits. There are also many ornamental varieties that can be grown as houseplants and seldom, if ever, bloom or produce fruit. Though most are upright trees, ficus types also include those with a shrubby, weeping, climbing or creeping habit. The attractive foliage can be green, burgundy or variegated, ranging from papery thin to thick and leathery. \n\nThough ficus can be a challenge to grow as an indoor plant, the rewards outweigh the drawbacks. By following some basic tips, these plants can thrive in your indoor home environment. Here’s how to grow and care for ficus houseplants.",
+    "rating": 3
+  },
+  {
+    "id": 4,
+    "name": "Money Tree",
+    "price": 40,
+    "imgUrl": "/images/MoneyTree.jpg",
+    "description": "Though you might not guess it, money tree is related to hibiscus and cocoa. It comes from swampy areas of Central and South America. In its natural habitat, money tree can grow more than 50 feet tall, but stays much smaller indoors. While it likes warm, humid conditions, it does well in average household conditions, and can be a good alternative for plants like fiddle leaf fig that need more light and are more sensitive to over- or underwatering.",
+    "rating": 4
+ },
+  {
+    "id": 5,
+    "name": "Palm Areca",
+    "price": 35,
+    "imgUrl": "/images/PalmAreca.jpg",
+    "description": "Areca palms are tall, attractive, clumping palms with smooth, sometimes golden trunks that are reminiscent of bamboo clumps. Their fronds are narrow and full, almost like bamboo leaves. In the summer, small, bright yellow but inconspicuous flowers grow from below the fronds. Although it is an endangered species in its native Madagascar, the palm is a common sight in outdoor plantings in the United States where it grows in warm climates, often lining streets or used as a privacy screen. It is also a popular houseplant. When grown indoors, these palms rarely bloom.\n\nThe palm has a slow to moderate growth rate and is best planted in the spring.",
+    "rating": 4
+  },
+  {
+    "id": 6,
+    "name": "Sansevieria",
+    "price": 39,
+    "imgUrl": "/images/Sansevieria.jpg",
+    "description": "Caring for the Sansevieria is easy as it only needs to be watered once every few weeks. A top tip from our grower, overwatering can be the Snake Plant's kryptonite. We suggest giving them approximately 300ml of water every few weeks or once a month and they will last a long and healthy life in your home or office.",
+    "rating": 5
+  },
+  {
+    "id": 7,
+    "name": "Schefflera",
+    "price": 29,
+    "imgUrl": "/images/Schefflera.jpg",
+    "description": "Schefflera plants prefer medium-light, meaning they should be kept in bright light, but the light should not be direct. The Schefflera plant should be fertilized in the spring and fall, 1-2 times per week. After repotting, wait approximately eight weeks to begin fertilization.",
+    "rating": 4
+  },
+  {
+    "id": 8,
+    "name": "Spathiphyllum",
+    "price": 20,
+    "imgUrl": "/images/Spathiphyllum.jpg",
+    "description": "Grow peace lily in a bright spot out of direct sunlight. Water regularly, keeping the compost moist but not wet. In spring and summer, feed fortnightly with a liquid house-plant food. Deadhead spent blooms and dust or wipe the leaves regularly to ensure they photosynthesise well.",
+    "rating": 5
+  },
+  {
+    "id": 9,
+    "name": "Ukka",
+    "price": 29,
+    "imgUrl": "/images/Ukka.jpg",
+    "description": "These slow-growers are easy to care for and simply need a sturdy pot with well-draining soil and some sun — a south-facing window with lots of indirect light is perfect. Water them once a week or so during the summer, letting the soil dry out in between, as consistently moist soil will cause root rot.",
+    "rating": 4
+  }
+]
